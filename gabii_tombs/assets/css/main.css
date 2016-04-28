@@ -3012,7 +3012,10 @@
 				font-size: 11pt;
 				line-height: 1.35em;
 			}
-
+			h1 {
+				font-size: 2em;
+			}
+			}
 			h2 {
 				font-size: 1.25em;
 				letter-spacing: 0;
