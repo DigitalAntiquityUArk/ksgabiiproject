@@ -2490,7 +2490,7 @@
 			width: 100%;
 			background: #212121;
 			background: rgba(27, 27, 27, 0.75);
-			color: #fff;
+			color: #b9c6ce;
 			padding: 1.5em 0;
 		}
 
@@ -2525,11 +2525,11 @@
 	}
 
 		.wrapper.style1 {
-			background: #a8a65d;
+			background: #b9c6ce;
 		}
 
 		.wrapper.style2 {
-			background-color: #a8a65d;
+			background-color: #b9c6ce;
 			background-image: url("images/bg02.png"), url("images/bg03.png"), url("images/bg01.png");
 			background-position: top left,						bottom left,					top left;
 			background-size: 100% 6em,						100% 6em,						auto;
