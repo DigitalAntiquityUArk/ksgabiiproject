@@ -63,7 +63,8 @@
 		
 	}
 	#middle_images{
-		float:left;
+		float:right;
+		padding:left:3%;
 		
 	}
 	}
