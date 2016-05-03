@@ -54,8 +54,10 @@
 		padding-top:5%;
 		padding-bottom:5%;
 	}
-	#model_frame{margin: auto;
-		width=60%;
+	#model_frame{
+		margin: auto;
+		width:60%;
+		padding-top:5%;
 		
 	}
 			
