@@ -2121,6 +2121,8 @@ i.icon.major:hover{opacity: 0.4;}
 	ul.links li {
 		line-height: 2.5em;
 	}
+#bottom_footer{ margin: auto;
+		width: 60%;}
 
 	ul.icons {
 		cursor: default;
@@ -2140,7 +2142,7 @@ i.icon.major:hover{opacity: 0.4;}
 				font-size: 2em;
 				border: 0;
 			}
-
+	
 	ul.actions {
 		cursor: default;
 	}
