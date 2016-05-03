@@ -48,7 +48,8 @@
 		-webkit-text-size-adjust: none;
 	}
 	#index_article {
-		width:600px;
+		margin: auto;
+		width: 60%;
 	}
 	
 /* Box Model */
