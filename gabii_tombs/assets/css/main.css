@@ -61,15 +61,16 @@
 	#controls{;
 	}
 	#tombs{ padding-top:40%;
-		
 	}
+	
 	#middle_images{
 		float:right;
 		padding:left:3%;
 		
 	}
-	#unityPlayer{width:1024;
-		height:768;}
+	#unityPlayer{
+		width:1024px;
+		height:768px;}
 			
 /* Box Model */
 
