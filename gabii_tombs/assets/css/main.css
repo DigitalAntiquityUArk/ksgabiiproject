@@ -73,7 +73,7 @@
 		width:1024px;
 		height:768px;}
 		
-	#barGraph
+	#barGraph{float:left;
 	}
 	#pieChart{float:right;
 	padding-left:3%;
