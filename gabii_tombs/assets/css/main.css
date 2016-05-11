@@ -74,9 +74,10 @@
 		height:768px;}
 		
 	#barGraph{float:left;
+	padding-bottom:20%;
 	}
 	#pieChart{float:right;
-	padding-left:4%;
+	padding-bottom:20%;
 	}
 	
 /* Box Model */
